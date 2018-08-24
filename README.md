@@ -15,9 +15,9 @@ A sample is included in **entertainment_center.py**.
 * <h4>Install <a href="https://www.python.org/">Python</a>
 
 ## Instructions
-* <h4>You can create a list of movie objects in entertainment_center.py by calling the constructor media.Movie() to instantiate movie objects.</h4>
-* <h4>You’ve given movies their own custom data structure by using the movie class and constructor, and now these objects can be stored in a list data structure.</h4>
-* <h4> This list of movies is what the open_movies_page() function needs as input in order to build the HTML file, so you can display your website.</h4>
+* You can create a list of movie objects in **entertainment_center.py** by calling the constructor **media.Movie()** to instantiate movie objects.
+* You’ve given movies their own custom data structure by using the movie class and constructor, and now these objects can be stored in a list data structure.
+* This list of movies is what the **open_movies_page()** function needs as input in order to build the HTML file, so you can display your website.
   
 ### Output:
-![Screenshot.jpg]()
+![Screenshot.jpg](https://github.com/tejaswivinnakota/Movie_trailer_website_application/blob/master/movie_trailer_website_sample.PNG)
