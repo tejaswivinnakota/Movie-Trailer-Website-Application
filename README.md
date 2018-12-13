@@ -1,6 +1,5 @@
 # Movie Trailer Website Application
 A python module that has server-side code to store a list of your favorite movies, including box art imagery and a movie trailer URL. You can use this to generate a static web page allowing visitors to browse their movies and watch the trailers.
-(Project from [Full Stack Web Development Nanodegree](https://in.udacity.com/course/full-stack-web-developer-nanodegree--nd004/))
 
 ## Introduction
 This is a python module that takes in a list of movies, and creates an HTML file which will display all of your favorite movies.
